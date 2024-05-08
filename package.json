@@ -1,0 +1,29 @@
+{
+  "name": "toolkit-discord",
+  "version": "0.1.7",
+  "description": "Herramientas utiles para discord.js como obtener informacion de una invitacion, entre otros.",
+  "main": "src/main.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node --watch main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AleCuatro/tools-api.git"
+  },
+  "keywords": [
+    "discord",
+    "apis",
+    "api",
+    "discordjs",
+    "typescript",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AleCuatro/tools-api/issues"
+  },
+  "homepage": "https://toolkitdiscord.readme.io/docs/api"
+}
